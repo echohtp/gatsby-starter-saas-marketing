@@ -97,7 +97,7 @@ export default class Navigation extends Component {
 
           <Mobile hide>{this.getNavList({})}</Mobile>
           <ActionsContainer>
-            <a class="button" href="https://t.me/Flash_Trading">Chat now!</a>
+            <button onclick="window.location.href = 'https://t.me/Flash_Trading';" >Chat now!</button>
           </ActionsContainer>
         </StyledContainer>
         <Mobile>
