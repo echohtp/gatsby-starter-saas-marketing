@@ -108,6 +108,15 @@ const GlobalStyles = createGlobalStyle`
     cursor: pointer;
   }
 
+  .a_clean{
+    text-decoration: none;
+    color: white
+  }
+  .a_clean:visited{
+    text-decoration: none;
+    color: white
+  }
+
 `
 
 export default GlobalStyles
