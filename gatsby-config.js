@@ -3,6 +3,7 @@ module.exports = {
     title: `Flash Trading`,
     description: `A simple one page marketing starter for saas companies.`,
     author: `Banana`,
+    chatUrl: `https://t.me/Flash_Trading`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
